@@ -1,6 +1,6 @@
 # TO
 
-Obiektowe bazy danych
+12. Obiektowe bazy danych
 W części teoretycznej powinno znaleźć się omówienie wybranej obiektowej bazy danych (https://db-engines.com/en/ranking/object+oriented+dbms https://en.wikipedia.org/wiki/Object_database), itp. Należy poruszyć następujące zagadnienia:
 * instalacja i konfiguracja,
 * omówienie obsługiwanych standardów (np. ODMG, JDO, LINQ, XQuery),
