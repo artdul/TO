@@ -8,4 +8,5 @@ W części teoretycznej powinno znaleźć się omówienie wybranej obiektowej ba
 * metody pobierania obiektów, obsługiwane języki zapytań wraz z przykładami,
 * dziedziczenie, polimorfizm, hermetyzacja, abstrakcja (abstrakcyjność),
 * porównanie z relacyjnymi bazami danych.
+
 W części praktycznej dla wybranego problemu należy opracować rozwiązania wykorzystujące: wybraną obiektową bazę danych oraz relacyjną bazę danych. Opracowane rozwiązania należy porównać.
