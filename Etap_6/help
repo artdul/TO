@@ -1,7 +1,22 @@
+- posprzątac kod w javie
+- zrobić generator do wpisywania danych.
+- przekształcenie do postgresa
+
+
 róznica, szybkość działania. 
 wykres, pierwszy odczyt z dysku. 
 
-zrobić generator do wpisywania danych.
+
+Dokumentacja:
+- Opisać Postgres
+- opisać baze danych. 
+- dodać róznice 
+- dodać porównanie z 6 i 7 linii. 
+- opisać w podsumowaniu. 
+
+
+
+Dokumentacja: 
 
 http://obiektowe-bazy.eprace.edu.pl/7,Porownanie_relacyjnych_i_obiektowych_baz_danych.html
 
