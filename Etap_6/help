@@ -1,5 +1,5 @@
 - posprzątac kod w javie
-- zrobić generator do wpisywania danych.
+- zrobić generator do wpisywania danych. - zrobiony
 - przekształcenie do postgresa
 
 
@@ -8,7 +8,7 @@ wykres, zwrócić uwage na pierwszy odczyt z dysku.
 
 
 Dokumentacja:
-- Opisać Postgres
+- Opisać Postgres - zrobiony
 - opisać baze danych hospital
 - dodać róznice 
 - dodać porównanie z 6 i 7 linii. 
